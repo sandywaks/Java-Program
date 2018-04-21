@@ -1,1 +1,1 @@
-# Java-Program
+# Mathematics-method-implemented-in-java
